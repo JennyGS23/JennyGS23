@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello, I´m Jenny González </b> 👋</h1>
+<h1 align="center"><b>Hello, I'm Jenny González </b> 👋</h1>
 <h3 align="center"> ✨Future Computer Engineering✨</h3>
 
 # About Me
